@@ -44,7 +44,7 @@ cd scraper
 node scrape.js
 ```
 
-⚠️ **Geokódování trvá ~90 minut** (94 hospod, Nominatim API limit 1 req/sec)
+⚠️ **Geokódování trvá ~2 minuty** (94 hospod, Nominatim API limit 1 req/sec)
 
 Výsledek se uloží do `scraper/zizkov_pubs.json`
 
