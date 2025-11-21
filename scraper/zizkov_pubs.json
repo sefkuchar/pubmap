@@ -1,0 +1,827 @@
+[
+  {
+    "name": "After party běhu Běchovice Praha",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/35218-after-party-behu-bechovice-praha",
+    "beersRaw": "Moucha 11° Muška zlatá",
+    "priceKc": 35,
+    "lat": 50.0924488,
+    "lng": 14.4765728,
+    "address": "Nad Ohradou 1700/25"
+  },
+  {
+    "name": "Akademický klub",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/2684-akademicky-klub",
+    "beersRaw": "Krušovice 11° Mušketýr, Zlatopramen Radler Citrón",
+    "priceKc": 42,
+    "lat": 50.0842703,
+    "lng": 14.4411582,
+    "address": "náměstí Winstona Churchilla 1938/4"
+  },
+  {
+    "name": "Bambini (pizzerie)",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/11755-bambini-pizzerie",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.0899951,
+    "lng": 14.4713785,
+    "address": "Biskupcova 1653/27"
+  },
+  {
+    "name": "Bar 109",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28371-bar-109",
+    "beersRaw": "Kozel 11°",
+    "priceKc": 24,
+    "lat": 50.0893164,
+    "lng": 14.4658384,
+    "address": "Roháčova 1609/109"
+  },
+  {
+    "name": "Bernard Pub",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/2813-bernard-pub",
+    "beersRaw": "Bernard 11°, Bernard 10°, Bernard 10° Nefiltrované, Bernard 12° Bernardova Černá lavina, Bernard 12° Nefiltrovaný ležák, Bernard 12° Polotmavé, ...",
+    "priceKc": 62,
+    "lat": 50.0886182,
+    "lng": 14.4693212,
+    "address": "Jeseniova 1692/93"
+  },
+  {
+    "name": "Bowling bar u Viktorky",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/3664-bowling-bar-u-viktorky",
+    "beersRaw": "Bernard 11°, Budějovický Budvar 11° Budvar 33",
+    "priceKc": 30,
+    "lat": 50.0851514,
+    "lng": 14.4453861,
+    "address": "Seifertova 560/49"
+  },
+  {
+    "name": "Bowling Club",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/7483-bowling-club",
+    "beersRaw": "Kozel 11°, Plzeňský Prazdroj 12°",
+    "priceKc": 30,
+    "lat": 50.0827131,
+    "lng": 14.4482888,
+    "address": "Bořivojova 783/83"
+  },
+  {
+    "name": "Bukowski's Bar",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/7480-bukowski-s-bar",
+    "beersRaw": "Vinohradský pivovar 11°",
+    "priceKc": 35,
+    "lat": 50.0830477,
+    "lng": 14.4485841,
+    "address": "Bořivojova 689/86"
+  },
+  {
+    "name": "Camp Žižkov",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/36968-camp-zizkov",
+    "beersRaw": "Gambrinus 11° Excelent, Plzeňský Prazdroj 12°, Radegast 11° Ratar, Cobolis 10°, Cvikov 11° Hvozd, Staropramen Cool Grep, ...",
+    "priceKc": 49,
+    "lat": 50.0919741,
+    "lng": 14.4726218,
+    "address": "Nad Ohradou 2667/17"
+  },
+  {
+    "name": "Ceel",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/27752-ceel",
+    "beersRaw": "Svijany 11° Máz, Polička 11° Otakar",
+    "priceKc": 29,
+    "lat": 50.0870509,
+    "lng": 14.4502693,
+    "address": "Husitská 192/45"
+  },
+  {
+    "name": "Čekárna",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/35965-cekarna",
+    "beersRaw": "Radegast 12°",
+    "priceKc": 38,
+    "lat": 50.0898868,
+    "lng": 14.4707668,
+    "address": "Biskupcova 1713/25"
+  },
+  {
+    "name": "Chaloupka",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/38031-chaloupka",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.0849818,
+    "lng": 14.4698925,
+    "address": "Ke Kapslovně 1918/2"
+  },
+  {
+    "name": "Chocobamba",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28503-chocobamba",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.0824354,
+    "lng": 14.4477134,
+    "address": "Krásova 1013/6"
+  },
+  {
+    "name": "Coyote",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/7352-coyote",
+    "beersRaw": "Staropramen 11° Granát, Staropramen 0% Nealko, Stella Artois, Staropramen 11°",
+    "priceKc": 39,
+    "lat": 50.0790944,
+    "lng": 14.4612949,
+    "address": "Vinohradská 2828/151"
+  },
+  {
+    "name": "El Toro",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/13508-el-toro",
+    "beersRaw": "Staropramen 12° Nefiltrovaný ležák",
+    "priceKc": 38,
+    "lat": 50.0823915,
+    "lng": 14.4504025,
+    "address": "Kubelíkova 1123/33"
+  },
+  {
+    "name": "EXIT Chmelnice",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/424-exit-chmelnice",
+    "beersRaw": "Staropramen 10°, Staropramen 11°, Kozel 10° Černý, Stella Artois",
+    "priceKc": 38,
+    "lat": 50.092601,
+    "lng": 14.4899377,
+    "address": "Koněvova 2597/219"
+  },
+  {
+    "name": "Forbes Casino",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28851-forbes-casino",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.090122,
+    "lng": 14.4684652,
+    "address": "Koněvova 1743/114"
+  },
+  {
+    "name": "Galerie Lapálie",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/36028-galerie-lapalie",
+    "beersRaw": "Dačický 12°",
+    "priceKc": 34,
+    "lat": 50.0831167,
+    "lng": 14.4534777,
+    "address": "Bořivojova 1081/40"
+  },
+  {
+    "name": "Gold Chicken",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/29329-gold-chicken",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.0903308,
+    "lng": 14.4690078,
+    "address": "Koněvova 1728/118"
+  },
+  {
+    "name": "Herba Café",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28831-herba-cafe",
+    "beersRaw": "Gambrinus 11° Excelent, Staropramen 10°",
+    "priceKc": 45,
+    "lat": 50.0834536,
+    "lng": 14.4503029,
+    "address": "Bořivojova 768/70"
+  },
+  {
+    "name": "Hodovna Žižkov",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28059-hodovna-zizkov",
+    "beersRaw": "Budějovický Budvar 10° Cvikl nefiltrovaný, Budějovický Budvar 12°",
+    "priceKc": 26,
+    "lat": 50.0831115,
+    "lng": 14.45527,
+    "address": "Chelčického 1153/14"
+  },
+  {
+    "name": "Hospoda Jarov",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/50762-hospoda-jarov",
+    "beersRaw": "Krušovice 10°, Krušovice 11°",
+    "priceKc": 41,
+    "lat": 50.0915714,
+    "lng": 14.497311,
+    "address": "2502/250 Albert"
+  },
+  {
+    "name": "Hrabovka",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/51619-hrabovka",
+    "beersRaw": "Vinohradský pivovar 11°, Poděbradský Zdroj 12°",
+    "priceKc": 65
+  },
+  {
+    "name": "Infocentrum Salé",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28447-infocentrum-sale",
+    "beersRaw": "Hubertus Kácov 10°",
+    "priceKc": 25,
+    "lat": 50.0860718,
+    "lng": 14.4466936,
+    "address": "Orebitská 194/14"
+  },
+  {
+    "name": "Jídelna",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/29332-jidelna",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.0922879,
+    "lng": 14.4869117,
+    "address": "Koněvova 1965/208"
+  },
+  {
+    "name": "KFC Praha 3 Flora",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/11917-kfc-praha-3-flora",
+    "beersRaw": "Plzeňský Prazdroj 12°, Radegast 0% Birell",
+    "priceKc": 39,
+    "lat": 50.0790944,
+    "lng": 14.4612949,
+    "address": "Vinohradská 2828/151"
+  },
+  {
+    "name": "Kino Aero",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/1642-kino-aero",
+    "beersRaw": "Bernard 10°, Bernard 12° Nefiltrovaný ležák, Břevnovský Benedict 15° Klášterní IPA, Bernard 12° Kvasnicové, JungBerg 11° Kino Pivo, Bernard 11°, ...",
+    "priceKc": 38,
+    "lat": 50.0900897,
+    "lng": 14.4719367,
+    "address": "Biskupcova 1733/31"
+  },
+  {
+    "name": "Komunitní centrum Žižkov (Žižkostel)",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28718-komunitni-centrum-zizkov-zizkostel",
+    "beersRaw": "Žatec 12° Export, Vinohradský pivovar 11°, Svijany 11° Máz, Vinohradský pivovar 14° IPA, Kolčavka 12°, Vinohradský pivovar 15° IPA",
+    "priceKc": 36,
+    "lat": 50.0879375,
+    "lng": 14.4611106,
+    "address": "nám. Barikád 1520/1"
+  },
+  {
+    "name": "La Casa",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/50655-la-casa",
+    "beersRaw": "",
+    "priceKc": null
+  },
+  {
+    "name": "Lavička",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/986-lavicka",
+    "beersRaw": "Bernard 10°, Gambrinus 10°, Bernard 12° Nefiltrovaný ležák, Bernard 11°, Bernard 0% Free, Bernard 12° Černé",
+    "priceKc": 32,
+    "lat": 50.0844392,
+    "lng": 14.4514377,
+    "address": "Seifertova 303/77"
+  },
+  {
+    "name": "Little Bastard",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/29330-little-bastard",
+    "beersRaw": "Staropramen 11°, Staropramen 12° Nefiltrovaný ležák",
+    "priceKc": 50,
+    "lat": 50.0921103,
+    "lng": 14.4969678,
+    "address": "Koněvova 2175/251"
+  },
+  {
+    "name": "Malkovich Bar",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/18585-malkovich-bar",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.0826621,
+    "lng": 14.4468893,
+    "address": "Bořivojova 623/100"
+  },
+  {
+    "name": "Martyho Frky Pub",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/17812-martyho-frky-pub",
+    "beersRaw": "Svijany 11° Máz, Svijany 13° Kvasničák",
+    "priceKc": 21,
+    "lat": 50.0861375,
+    "lng": 14.4518181,
+    "address": "Milíčova 471/25"
+  },
+  {
+    "name": "Matrix Music Club",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/2359-matrix-music-club",
+    "beersRaw": "Ferdinand 10°, Plzeňský Prazdroj 12°",
+    "priceKc": 32,
+    "lat": 50.0875412,
+    "lng": 14.4548586,
+    "address": "Koněvova 1730/13"
+  },
+  {
+    "name": "Mei Shi Ge",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/15541-mei-shi-ge",
+    "beersRaw": "Budějovický Budvar 10°",
+    "priceKc": 22,
+    "lat": 50.0799141,
+    "lng": 14.4476306,
+    "address": "Slavíkova 1190/18"
+  },
+  {
+    "name": "Merkur Casino",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/29331-merkur-casino",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.0923115,
+    "lng": 14.4891387,
+    "address": "Koněvova 1956/214"
+  },
+  {
+    "name": "Molekula",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/17796-molekula",
+    "beersRaw": "Staropramen 10°, Únětické pivo 10° Světlé",
+    "priceKc": 0,
+    "lat": 50.0866094,
+    "lng": 14.4535652,
+    "address": "Roháčova 154/6"
+  },
+  {
+    "name": "Mopra",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/50677-mopra",
+    "beersRaw": "Bernard 11°",
+    "priceKc": 50,
+    "lat": 50.0835757,
+    "lng": 14.4538453,
+    "address": "Táboritská 475/6"
+  },
+  {
+    "name": "Na křižovatce",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/714-na-krizovatce",
+    "beersRaw": "Gambrinus 10°, Plzeňský Prazdroj 12°, Staropramen 10°, Kozel 10° Černý, Kozel Kvasnicový speciál, Gambrinus 11° Excelent, ...",
+    "priceKc": 46,
+    "lat": 50.0779466,
+    "lng": 14.4605027,
+    "address": "Vinohradská 1612/149"
+  },
+  {
+    "name": "Na Třemošné",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/16073-na-tremosne",
+    "beersRaw": "Kozel 11°, Kozel 10°, Plzeňský Prazdroj 12°",
+    "priceKc": 24,
+    "lat": 50.078628,
+    "lng": 14.4577345,
+    "address": "Přemyslovská 1660/35"
+  },
+  {
+    "name": "Na větvi",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/27814-na-vetvi",
+    "beersRaw": "Svijany 11° Máz, Plzeňský Prazdroj 12°",
+    "priceKc": 28,
+    "lat": 50.0916298,
+    "lng": 14.4742674,
+    "address": "Koněvova 2775/139"
+  },
+  {
+    "name": "Nad Viktorkou",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/7481-nad-viktorkou",
+    "beersRaw": "Plzeňský Prazdroj 12°, Gambrinus 10°",
+    "priceKc": 60,
+    "lat": 50.0828715,
+    "lng": 14.4486907,
+    "address": "Bořivojova 785/79"
+  },
+  {
+    "name": "Navat",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/51362-navat",
+    "beersRaw": "Plzeňský Prazdroj 12°",
+    "priceKc": 75
+  },
+  {
+    "name": "Nebeská vůně",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/50667-nebeska-vune",
+    "beersRaw": "Gambrinus 10°",
+    "priceKc": 45,
+    "lat": 50.0840595,
+    "lng": 14.4524088,
+    "address": "545/44 Nebeská vůně"
+  },
+  {
+    "name": "Olše",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/1544-olse",
+    "beersRaw": "Plzeňský Prazdroj 12°, Plzeňský Prazdroj 12° Nefiltrovaný, Radegast 0% Birell, Master Black IPA, Kozel 10° Černý, Fénix Wheat, ...",
+    "priceKc": 69,
+    "lat": 50.0823021,
+    "lng": 14.4576402,
+    "address": "Táboritská 17/26"
+  },
+  {
+    "name": "Oryx",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28558-oryx",
+    "beersRaw": "Radegast 10°, Kozel 11°, Plzeňský Prazdroj 12°, Radegast 0% Birell Polotmavý, Radegast 12° Hořký živel, Kozel 10° Černý",
+    "priceKc": 46,
+    "lat": 50.0878981,
+    "lng": 14.4916842,
+    "address": "Habrová 2705/2A"
+  },
+  {
+    "name": "Palác Akropolis",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/569-palac-akropolis",
+    "beersRaw": "Gambrinus 11° Excelent, Plzeňský Prazdroj 12°, Staropramen 10°, Kozel 11°, Staropramen 11°, Master Black IPA",
+    "priceKc": 55,
+    "lat": 50.08225,
+    "lng": 14.4488059,
+    "address": "Kubelíkova 1548/27"
+  },
+  {
+    "name": "Pivní rozmanitost",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/1965-pivni-rozmanitost",
+    "beersRaw": "Želiv 12° Milo American Ale, Matuška 21° Hellcat, Jopen Johannieter, Nomád 16° Pelikán IPA, Matuška 16° Winterbock, Beer Here Jule IPA, ...",
+    "priceKc": 30,
+    "lat": 50.0868354,
+    "lng": 14.4490316,
+    "address": "Husitská 73/37"
+  },
+  {
+    "name": "Pivnice Radyně",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28484-pivnice-radyne",
+    "beersRaw": "Braník 10°",
+    "priceKc": 25,
+    "lat": 50.0886422,
+    "lng": 14.4669412,
+    "address": "Žerotínova 1739/66"
+  },
+  {
+    "name": "Pivotéka U Krakena",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/10101-pivoteka-u-krakena",
+    "beersRaw": "Staropramen 10°, Braník 10°",
+    "priceKc": 22
+  },
+  {
+    "name": "Pizza U staré pece",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/684-pizza-u-stare-pece",
+    "beersRaw": "Krušovice 11° Mušketýr, Starobrno 13° Zelené, Krušovice 13° Malvaz, Zlatopramen 0% N·A, Stella Artois, Heineken",
+    "priceKc": 35,
+    "lat": 50.0823904,
+    "lng": 14.4588227,
+    "address": "Olšanské náměstí 1782/8"
+  },
+  {
+    "name": "Planeta Žižkov",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/6815-planeta-zizkov",
+    "beersRaw": "Gambrinus 10° Nepasterizovaný, Fénix Wheat, Plzeňský Prazdroj 12°, Kozel 11°, Plzeňský Prazdroj 12° Nefiltrovaný, Master 13° Polotmavé, ...",
+    "priceKc": 38
+  },
+  {
+    "name": "Play-house",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/27913-play-house",
+    "beersRaw": "Gambrinus 10°",
+    "priceKc": 28,
+    "lat": 50.0854694,
+    "lng": 14.4413513,
+    "address": "Seifertova 465/15"
+  },
+  {
+    "name": "Play-House",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/29328-play-house",
+    "beersRaw": "Březňák 11°",
+    "priceKc": 59,
+    "lat": 50.0924584,
+    "lng": 14.4928738,
+    "address": "U Kněžské louky 2153/2"
+  },
+  {
+    "name": "Polo",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/21-polo",
+    "beersRaw": "Plzeňský Prazdroj 12°, Plzeňský Prazdroj 12° Nefiltrovaný, Radegast 0% Birell, Master 13° Velikonoční Zlatá, Budějovický Budvar 12°",
+    "priceKc": 48,
+    "lat": 50.0891521,
+    "lng": 14.4682995,
+    "address": "Jana Želivského 1790/35"
+  },
+  {
+    "name": "Rebels",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/35838-rebels",
+    "beersRaw": "Plzeňský Prazdroj 12°, Kozel 11°, Gambrinus 10°, Master 13° Velikonoční Zlatá, Master IPA, Master 12° Belgický Saison, ...",
+    "priceKc": 62,
+    "lat": 50.09242,
+    "lng": 14.4801372,
+    "address": "Koněvova 1519/165"
+  },
+  {
+    "name": "Reda bar",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/1953-reda-bar",
+    "beersRaw": "Gambrinus 10°, Staropramen 11°, Staropramen 14,5° Výroční Granát, Rychtář 12° Natur (nefitrovaný, kvasnicový)",
+    "priceKc": 36,
+    "lat": 50.0898868,
+    "lng": 14.4707668,
+    "address": "Biskupcova 1713/25"
+  },
+  {
+    "name": "Restaurace Kopyto",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/2451-restaurace-kopyto",
+    "beersRaw": "Plzeňský Prazdroj 12°, Lobkowicz Premium 12°, Kozel 10° Černý, Vysoký Chlumec 10° Princ Max X, Černá Hora Velen Pšeničné, Klášter 11° Kvasnicové, ...",
+    "priceKc": 38,
+    "lat": 50.0822586,
+    "lng": 14.4451982,
+    "address": "Bořivojova 883/116"
+  },
+  {
+    "name": "Restaurace pod Viktorkou",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/3659-restaurace-pod-viktorkou",
+    "beersRaw": "Gambrinus 10°, Plzeňský Prazdroj 12°",
+    "priceKc": 28,
+    "lat": 50.0849309,
+    "lng": 14.4467861,
+    "address": "Seifertova 570/55"
+  },
+  {
+    "name": "Restaurace U Kurelů",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/2511-restaurace-u-kurelu",
+    "beersRaw": "Zemské pivo 10°, Plzeňský Prazdroj 12°, Malešov 14° IPA, Gambrinus 10°, Vinohradský pivovar 13° Jantar, Zemské pivo 14° Colorado Pale Ale, ...",
+    "priceKc": 42,
+    "lat": 50.0823723,
+    "lng": 14.449943,
+    "address": "Chvalova 1119/1"
+  },
+  {
+    "name": "Rock Club Kain",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/418-rock-club-kain",
+    "beersRaw": "Gambrinus 11° Excelent, Kozel 11°, Gambrinus 10° Nepasterizovaný, Gambrinus 10°, Plzeňský Prazdroj 12°, Staropramen 10°, ...",
+    "priceKc": 27,
+    "lat": 50.0872371,
+    "lng": 14.4440231,
+    "address": "Husitská 106/1"
+  },
+  {
+    "name": "ROH družstevní kavárna",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/30396-roh-druzstevni-kavarna",
+    "beersRaw": "Podkováň 11°, Kolčavka 11°, Antoš 10° Troll ALE, Permon 12° P.A.P.A, Antoš 12° Antošův ležák, Permon P.I.P.A.",
+    "priceKc": 33,
+    "lat": 50.087127,
+    "lng": 14.4495723,
+    "address": "U Božích bojovníků 606/3"
+  },
+  {
+    "name": "Schnitzel Plac",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/38025-schnitzel-plac",
+    "beersRaw": "Gambrinus 12°",
+    "priceKc": 38,
+    "lat": 50.0782386,
+    "lng": 14.4747348,
+    "address": "J. Želivského 2387/15"
+  },
+  {
+    "name": "Shotgun",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28832-shotgun",
+    "beersRaw": "Plzeňský Prazdroj 12°",
+    "priceKc": 42
+  },
+  {
+    "name": "Sport bar Dream",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/36776-sport-bar-dream",
+    "beersRaw": "Staropramen 10°",
+    "priceKc": 30,
+    "lat": 50.0848699,
+    "lng": 14.4487887,
+    "address": "Cimburkova 6/3"
+  },
+  {
+    "name": "Sportbar",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/14147-sportbar",
+    "beersRaw": "Svijany 11° Máz, Gambrinus 10°, Kozel 11°, Plzeňský Prazdroj 12°",
+    "priceKc": 41
+  },
+  {
+    "name": "Sportovní areál Pražačka - u hřiště",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/1098-sportovni-areal-prazacka-u-hriste",
+    "beersRaw": "Staropramen 10°, Plzeňský Prazdroj 12°, Staropramen 12° Nefiltrovaný ležák, Staropramen 11° Granát",
+    "priceKc": 45,
+    "lat": 50.0937148,
+    "lng": 14.4773438,
+    "address": "Za Žižkovskou vozovnou 2716/19"
+  },
+  {
+    "name": "Svět piva",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/595-svet-piva",
+    "beersRaw": "Rychtář 12°, Klášter 12° Premium",
+    "priceKc": 45,
+    "lat": 50.0848932,
+    "lng": 14.4547873,
+    "address": "Havlíčkovo náměstí 670/7"
+  },
+  {
+    "name": "Thai Long 1",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/29327-thai-long-1",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.0843805,
+    "lng": 14.4517541,
+    "address": "Seifertova 682/81"
+  },
+  {
+    "name": "Tunel",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/27751-tunel",
+    "beersRaw": "Kozel 11°, Valášek 15° IPA, Beskydský pivovárek 12° Beskydský ležák, Rychnov 12° Kněžna",
+    "priceKc": 29,
+    "lat": 50.0889454,
+    "lng": 14.46091,
+    "address": "Koněvova 895/59"
+  },
+  {
+    "name": "U Habásků",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/472-u-habasku",
+    "beersRaw": "Únětické pivo 12° Nefiltrované, Primátor Weizenbier, Únětické pivo 10° Nefiltrované, Gambrinus 10°, Svijany 11° Máz, Kozel 11°, ...",
+    "priceKc": 39,
+    "lat": 50.0852141,
+    "lng": 14.4500514,
+    "address": "Štítného 408/16"
+  },
+  {
+    "name": "U Houdků",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/672-u-houdku",
+    "beersRaw": "Kozel 11°, Plzeňský Prazdroj 12°, Gambrinus 10°, Kozel 11° Nefiltrovaný, Master IPA, Kozel 11° Řezaný, ...",
+    "priceKc": 49,
+    "lat": 50.0824314,
+    "lng": 14.4457779,
+    "address": "Bořivojova 693/110"
+  },
+  {
+    "name": "U Kozla",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/1901-u-kozla",
+    "beersRaw": "Kozel 12°, Kozel 11°, Kozel Kvasnicový speciál, Kozel 10°, Plzeňský Prazdroj 12° Nefiltrovaný, Kozel 13° nefiltrované (kvasnicové), ...",
+    "priceKc": 31,
+    "lat": 50.0875303,
+    "lng": 14.4697661,
+    "address": "Jana Želivského 1882/6"
+  },
+  {
+    "name": "U Kulaté báby",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/787-u-kulate-baby",
+    "beersRaw": "Gambrinus 10°",
+    "priceKc": 23,
+    "lat": 50.0862574,
+    "lng": 14.4445425,
+    "address": "Řehořova 1022/40"
+  },
+  {
+    "name": "U Lapáčků",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/51819-u-lapacku",
+    "beersRaw": "Plzeňský Prazdroj 12°",
+    "priceKc": 69,
+    "lat": 50.088789,
+    "lng": 14.4856819,
+    "address": "Pod Jarovem 2812/8"
+  },
+  {
+    "name": "U Mariánského Obrazu",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/713-u-marianskeho-obrazu",
+    "beersRaw": "Plzeňský Prazdroj 12°",
+    "priceKc": 66,
+    "lat": 50.0820752,
+    "lng": 14.4495955,
+    "address": "Kubelíkova 1089/22"
+  },
+  {
+    "name": "U Sadu",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/632-u-sadu",
+    "beersRaw": "Sádek 11°, Klášter 11°, Matuška 15° Raptor IPA, Plzeňský Prazdroj 12°, Vysoký Chlumec 13° Démon, Kozel 10°, ...",
+    "priceKc": 66,
+    "lat": 50.080779,
+    "lng": 14.4489975,
+    "address": "Škroupovo náměstí 1282/5"
+  },
+  {
+    "name": "U Štíra",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/36783-u-stira",
+    "beersRaw": "Gambrinus 11° Excelent",
+    "priceKc": 35,
+    "lat": 50.0861752,
+    "lng": 14.4458718,
+    "address": "Řehořova 1039/54"
+  },
+  {
+    "name": "V kapslovně",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/2131-v-kapslovne",
+    "beersRaw": "Staropramen 10°",
+    "priceKc": 25,
+    "lat": 50.0867274,
+    "lng": 14.4634418,
+    "address": "Pod Parukářkou 39/4"
+  },
+  {
+    "name": "Vampír Žižkov",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/36967-vampir-zizkov",
+    "beersRaw": "",
+    "priceKc": null,
+    "lat": 50.0919741,
+    "lng": 14.4726218,
+    "address": "Nad Ohradou 2667/17"
+  },
+  {
+    "name": "Venda Bar",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/22-venda-bar",
+    "beersRaw": "Plzeňský Prazdroj 12°, Budějovický Budvar 11° Budvar 33, Budějovický Budvar 10°, Budějovický Budvar 12°",
+    "priceKc": 54,
+    "lat": 50.0877023,
+    "lng": 14.4690454,
+    "address": "Jana Želivského 1860/27"
+  },
+  {
+    "name": "Veranda u Zajíce",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/35358-veranda-u-zajice",
+    "beersRaw": "Kynšperský Zajíc 12°, Kynšperský Zajíc 12° Polotmavý, Kynšperský Zajíc 12° Tmavý, Kynšperský Zajíc 10°",
+    "priceKc": 35,
+    "lat": 50.0875593,
+    "lng": 14.4569375,
+    "address": "Lukášova 188/6"
+  },
+  {
+    "name": "Vinný Bar Kosík",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/16339-vinny-bar-kosik",
+    "beersRaw": "Primátor 11°",
+    "priceKc": 42,
+    "lat": 50.0851107,
+    "lng": 14.4472737,
+    "address": "Blahníkova 610/3"
+  },
+  {
+    "name": "Víno MaM",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/17241-vino-mam",
+    "beersRaw": "Bakalář 11°, Bakalář 12° Černovar",
+    "priceKc": 33,
+    "lat": 50.0798303,
+    "lng": 14.4586066,
+    "address": "Sudoměřská 1707/19"
+  },
+  {
+    "name": "Visitor Club",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/1623-visitor-club",
+    "beersRaw": "Plzeňský Prazdroj 12°, Gambrinus 10°",
+    "priceKc": 35,
+    "lat": 50.0873411,
+    "lng": 14.454286,
+    "address": "Koněvova 158/43"
+  },
+  {
+    "name": "XT3 Hudební klub",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/1624-xt3-hudebni-klub",
+    "beersRaw": "Staropramen 10°, Hoegaarden",
+    "priceKc": 27,
+    "lat": 50.0860753,
+    "lng": 14.4553294,
+    "address": "Rokycanova 707/29"
+  },
+  {
+    "name": "Yang Zi Jiang",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/27818-yang-zi-jiang",
+    "beersRaw": "Budějovický Budvar 10°",
+    "priceKc": 28,
+    "lat": 50.0899558,
+    "lng": 14.4670132,
+    "address": "Koněvova 1497/108"
+  },
+  {
+    "name": "yes burger",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/5991-yes-burger",
+    "beersRaw": "Svijany 11° Máz, Duff Beer",
+    "priceKc": 32,
+    "lat": 50.0846238,
+    "lng": 14.4472648,
+    "address": "Seifertova 1527/16"
+  },
+  {
+    "name": "Základna",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/596-zakladna",
+    "beersRaw": "Staropramen 10°, Staropramen 12°, Staropramen 12° Nefiltrovaný ležák",
+    "priceKc": 28,
+    "lat": 50.0837275,
+    "lng": 14.4529948,
+    "address": "Lipanská 835/3"
+  },
+  {
+    "name": "Zelená Perla",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/50617-zelena-perla",
+    "beersRaw": "Rychtář 11°",
+    "priceKc": 52,
+    "lat": 50.0876421,
+    "lng": 14.4643472,
+    "address": "Jeseniova 1506/63"
+  },
+  {
+    "name": "Želva beers & burgers",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/28309-zelva-beers-burgers",
+    "beersRaw": "Starosta 12°, Starokladno 12,8° Černý havíř, Starokladno 12,8° Ležák starosty Pavla, Starokladno 11° Summer ALE, Starokladno 11,2° Hasič IPL, Starokladno Pšeničná 12°, ...",
+    "priceKc": 55,
+    "lat": 50.0782386,
+    "lng": 14.4747348,
+    "address": "J. Želivského 1806/23"
+  },
+  {
+    "name": "Žižcafé Therapy",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/50869-zizcafe-therapy",
+    "beersRaw": "Chříč 10° Oranžový expres",
+    "priceKc": 60,
+    "lat": 50.087658,
+    "lng": 14.4607188,
+    "address": "Žerotínova 1220/31"
+  },
+  {
+    "name": "Žižkov na Žižkově",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/35908-zizkov-na-zizkove",
+    "beersRaw": "Moravský Žižkov 11° Žižkovský ležák, Moravský Žižkov 10° Divočák, Řeporyje 12° Red Ale, Moravský Žižkov 13° Žižkovský čert, Moravský Žižkov 11° Velikonoční zelené, Moravský Žižkov 13° Žižkovský Vánoční speciál, ...",
+    "priceKc": 57,
+    "lat": 50.0831115,
+    "lng": 14.45527,
+    "address": "Chelčického 1153/14"
+  },
+  {
+    "name": "Žižkovské pivobraní",
+    "url": "https://www.pivnidenicek.cz/restaurace-a-hospody/ceska-republika/praha/praha-3/zizkov/36956-zizkovske-pivobrani",
+    "beersRaw": "Pacov 14° Kokos Milkshake NEIPA, Valášek 17° Zbořená ovca, Purkmistr 13° Smrk, Falkenštejn 13° APA, Pivovar Isao 15° IPA, Valášek 17° Ovca Chery, ...",
+    "priceKc": 70,
+    "lat": 50.084078,
+    "lng": 14.459126,
+    "address": "Chelčického 45/41"
+  }
+]

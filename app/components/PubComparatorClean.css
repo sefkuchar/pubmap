@@ -1,0 +1,30 @@
+.pubc-wrap{padding:1.5rem 2rem;max-width:1250px;margin:0 auto;font-family:System-ui,Arial,sans-serif;}
+.pubc-title{margin:0 0 1rem;font-size:2rem;font-weight:600;color:#1b1f23;}
+.pubc-controls{display:flex;flex-wrap:wrap;gap:.75rem;margin-bottom:1rem;align-items:center;}
+.pubc-controls input{border:1px solid #c9ced3;padding:.55rem .65rem;border-radius:6px;background:#fff;color:#111;min-width:240px;font-size:.85rem;}
+.pubc-controls input:focus{outline:2px solid #2563eb;}
+.pubc-controls button{border:1px solid #d0d4d9;background:#f6f8fa;padding:.55rem .85rem;font-size:.75rem;border-radius:6px;cursor:pointer;font-weight:600;letter-spacing:.3px;}
+.pubc-controls button:hover{background:#e9ecf0;}
+.pubc-controls button.active{background:#2563eb;color:#fff;border-color:#1d4ed8;}
+.pubc-table{width:100%;border-collapse:collapse;font-size:.78rem;}
+.pubc-table thead th{background:#1f2328;color:#f9f9f9;padding:.55rem .6rem;text-align:left;font-weight:600;font-size:.7rem;letter-spacing:.4px;position:sticky;top:0;}
+.pubc-table tbody td{padding:.55rem .6rem;border-bottom:1px solid #e1e4e8;vertical-align:top;line-height:1.25;color:#202428;}
+.pubc-table tbody tr:nth-child(odd){background:#ffffff;}
+.pubc-table tbody tr:nth-child(even){background:#f2f5f9;}
+.pubc-table tbody tr:hover{background:#e2ecf9;}
+.pubc-table a{color:#0b61c4;text-decoration:none;font-weight:600;}
+.pubc-table a:hover{text-decoration:underline;}
+.note-line{margin:.8rem 0 0;font-size:.62rem;color:#555;}
+.pubc-wrap{--tour-bg:#f6f8fa;--tour-border:#d0d7de;--tour-text:#1b1f23;--tour-input-bg:#fff;--tour-input-border:#d0d7de;--tour-input-text:#111;}
+.dark .pubc-title{color:#f3f4f6;}
+.dark{background:#0f1113;color:#e8e9ea;--tour-bg:#1d2125;--tour-border:#2d3339;--tour-text:#e5e7e9;--tour-input-bg:#16191d;--tour-input-border:#2d3339;--tour-input-text:#e5e7e9;}
+.dark .pubc-controls input{background:#16191d;border-color:#2d3339;color:#f3f4f6;}
+.dark .pubc-controls button{background:#1d2125;border-color:#2d3339;color:#d8dadd;}
+.dark .pubc-controls button:hover{background:#252a30;}
+.dark .pubc-controls button.active{background:#2563eb;color:#fff;border-color:#1d4ed8;}
+.dark .pubc-table thead th{background:#0b0d0f;color:#dcdfe2;}
+.dark .pubc-table tbody tr:nth-child(odd){background:#171b1f;}
+.dark .pubc-table tbody tr:nth-child(even){background:#121518;}
+.dark .pubc-table tbody td{border-bottom:1px solid #2d3339;color:#e5e7e9;}
+.dark .pubc-table a{color:#5fa8ff;}
+.dark .pubc-table tbody tr:hover{background:#1f252b;}
