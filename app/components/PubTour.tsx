@@ -453,13 +453,23 @@ export function PubTour({ pubs, onTourGenerated, tourRoute, dark = false }: PubT
                 <div className="pubc-tour-type-row">
                   <button
                     className={`pubc-tour-type-button ${tourType === 'nearest' ? 'active' : ''}`}
-                    onClick={() => setTourType('nearest')}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      setTourType('nearest');
+                    }}
+                    type="button"
                   >
                     ⚡ Nearest
                   </button>
                   <button
                     className={`pubc-tour-type-button ${tourType === 'cheapest' ? 'active' : ''}`}
-                    onClick={() => setTourType('cheapest')}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      setTourType('cheapest');
+                    }}
+                    type="button"
                   >
                     💸 Cheapest
                   </button>
