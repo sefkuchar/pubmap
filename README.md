@@ -86,4 +86,4 @@ pubmap/
 
 ## License
 
-MIT
+sefkuchar
