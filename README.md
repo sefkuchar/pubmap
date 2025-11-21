@@ -87,3 +87,13 @@ pubmap/
 ## License
 
 sefkuchar
+
+
+### make lokal dataset
+`cd ~pubmap`
+
+and
+
+`APIFY_TOKEN=YOURTOKEN node scrapder/fetch_and_normalize.mjs `
+
+you need to register on apify and fucking place it ther e?!@?!@1!!!
